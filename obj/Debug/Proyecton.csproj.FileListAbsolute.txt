@@ -1,0 +1,8 @@
+E:\Codes\Proyecton\bin\Debug\Proyecton.exe.config
+E:\Codes\Proyecton\bin\Debug\Proyecton.exe
+E:\Codes\Proyecton\bin\Debug\Proyecton.pdb
+E:\Codes\Proyecton\obj\Debug\Proyecton.csproj.AssemblyReference.cache
+E:\Codes\Proyecton\obj\Debug\Proyecton.csproj.SuggestedBindingRedirects.cache
+E:\Codes\Proyecton\obj\Debug\Proyecton.csproj.CoreCompileInputs.cache
+E:\Codes\Proyecton\obj\Debug\Proyecton.exe
+E:\Codes\Proyecton\obj\Debug\Proyecton.pdb
